@@ -1,16 +1,9 @@
-# first_app_dio
+# DIO First APP
 
-A new Flutter project.
+This is the first challenge in Santander Bootcamp: Mobile with Flutter.
+I built this project updating the Text value, TextStyles, MaterialApp Theme and put a new button with decrease function.
 
-## Getting Started
+![Counter APP - Android Emulator - Increment tooltip](https://github.com/luthianopacheco/dio-first-app/assets/131195495/9849a995-4921-4f69-a333-03daa4dc7c07)
+![Counter APP - Android Emulator - Decrease tooltip](https://github.com/luthianopacheco/dio-first-app/assets/131195495/05ab121a-fae5-45db-bacc-3fd2088823d9)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Created in a Pixel 2 API 31 emulated by Android Studio.
